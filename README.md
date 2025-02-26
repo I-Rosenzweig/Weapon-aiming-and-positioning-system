@@ -4,6 +4,13 @@
 [![Arduino Compatible](https://img.shields.io/badge/Platform-Arduino-00979D.svg)](https://www.arduino.cc/)
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/gun-aiming-system?style=social)](https://github.com/yourusername/gun-aiming-system/stargazers)
 
+https://github.com/user-attachments/assets/97b6e7ed-666f-4b0b-8e22-50b4ce555bc0
+
+
+https://github.com/user-attachments/assets/abc8f39a-3086-4264-8b1d-22cde98d77c0
+
+
+
 ## 📋 Overview
 
 A high-precision **Gun Aiming Assistance System** leveraging inertial measurement and distance sensing to predict bullet trajectories and provide real-time feedback for improved accuracy. This Arduino-based system uses physics calculations to help align shots properly through a combination of visual indicators and display feedback.
@@ -39,8 +46,15 @@ A high-precision **Gun Aiming Assistance System** leveraging inertial measuremen
 | Jumper Wires | Various | Connections |
 
 ## 📝 Wiring Diagram
+![image](https://github.com/user-attachments/assets/b3d58cbf-b525-4568-bdd1-ecc9ee747c9d)
+![image](https://github.com/user-attachments/assets/33708cde-1c2e-4cbf-a298-84a170904284)
+![image](https://github.com/user-attachments/assets/dbf6d7ab-9fd6-4fc0-877f-119212203b68)
 
 ### Connections Table
+
+
+
+
 
 | Component | Arduino Pin |
 |-----------|------------|
